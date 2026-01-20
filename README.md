@@ -52,40 +52,6 @@ Actualmente sigo estudiando, tras haber terminado DAM con éxito, un Curso de Es
 
 ---
 
-## 🧪 Experiencia
-
-### 🏫 Universidad de Granada (UGR) – Facultad de Psicología  
-**Prácticas DAM | 2025 (3 meses)**
-
-- Desarrollo de aplicación de escritorio para la gestión de TFGs
-- Diseño y conexión con base de datos
-- Planificación del proyecto y organización del desarrollo
-
----
-
-### 🏫 IES Ángel Ganivet  
-**Prácticas SMR | 2023 (3 meses)**
-
-- Montaje y reparación de ordenadores
-- Mantenimiento de equipos informáticos
-- Instalación y control de software
-- Gestión de redes locales
-
----
-
-## 📚 Formación
-
-🎓 **Técnico en Sistemas Microinformáticos y Redes (SMR)**  
-IES Francisco Ayala — *2021 / 2023*
-
-🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-IES Francisco Ayala — *2023 / 2025*
-
-📖 **Técnico Especialista en Desarrollo de Aplicaciones en lenguaje Python**
-IES Zaidín-Vergeles - *2025 / Actual*
-
----
-
 ## 🌍 Idiomas
 
 - 🇪🇸 Español: Nativo  
