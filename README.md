@@ -4,6 +4,7 @@
 📍 Granada, España
 
 Soy desarrollador multiplataforma con formación técnica y experiencia práctica en desarrollo de aplicaciones, bases de datos y sistemas. Apasionado por la tecnología desde pequeño, actualmente enfoco mi crecimiento profesional en el **desarrollo de software**, especialmente en **aplicaciones móviles y de escritorio**.
+Actualmente sigo estudiando, tras haber terminado DAM con éxito, un Curso de Especialización de Desarrollo de Aplicaciones en lenguaje Python y podría compaginarlo perfectamente con un trabajo.
 
 ---
 
@@ -11,7 +12,8 @@ Soy desarrollador multiplataforma con formación técnica y experiencia práctic
 
 - 🎓 Técnico en Sistemas Microinformáticos y Redes (SMR)
 - 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
-- 📱 Interés especial en desarrollo móvil (Android / Flutter)
+- 📖 Técnico Especialista en Desarrollo de Aplicaciones en lenguaje Python
+- 📱 Interés especial en desarrollo de aplicaciones de escritorio
 - 🧠 Mentalidad orientada a aprender, mejorar y crear software de calidad
 - 🤝 Trabajo en equipo, compromiso y responsabilidad
 
@@ -23,6 +25,7 @@ Soy desarrollador multiplataforma con formación técnica y experiencia práctic
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -51,7 +54,7 @@ Soy desarrollador multiplataforma con formación técnica y experiencia práctic
 
 ## 🧪 Experiencia
 
-### 🏫 UGR – Facultad de Psicología  
+### 🏫 Universidad de Granada (UGR) – Facultad de Psicología  
 **Prácticas DAM | 2025 (3 meses)**
 
 - Desarrollo de aplicación de escritorio para la gestión de TFGs
@@ -78,6 +81,9 @@ IES Francisco Ayala — *2021 / 2023*
 🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 IES Francisco Ayala — *2023 / 2025*
 
+📖 **Técnico Especialista en Desarrollo de Aplicaciones en lenguaje Python**
+IES Zaidín-Vergeles - *2025 / Actual*
+
 ---
 
 ## 🌍 Idiomas
@@ -100,4 +106,4 @@ Seguir creciendo como desarrollador de software, especializándome en el **desar
 
 ---
 
-⭐ Si te interesa mi perfil o alguno de mis proyectos, no dudes en contactarme o echar un vistazo a mis repositorios.
+⭐ Si te interesa mi perfil o alguno de mis proyectos, no dudes en contactarme o echar un vistazo a mis repositorios. Un saludo!!!
