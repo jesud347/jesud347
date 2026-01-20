@@ -12,7 +12,7 @@ Actualmente sigo estudiando, tras haber terminado DAM con éxito, un Curso de Es
 
 - 🎓 Técnico en Sistemas Microinformáticos y Redes (SMR)
 - 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
-- 📖 Técnico Especialista en Desarrollo de Aplicaciones en lenguaje Python
+- 📖 Técnico Especialista en Desarrollo de Aplicaciones en lenguaje Python (Cursando Actualmente)
 - 📱 Interés especial en desarrollo de aplicaciones de escritorio
 - 🧠 Mentalidad orientada a aprender, mejorar y crear software de calidad
 - 🤝 Trabajo en equipo, compromiso y responsabilidad
